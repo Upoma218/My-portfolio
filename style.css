@@ -99,6 +99,29 @@ h4{
     font-size: 36px;
 
 }
-.pro-text{
-    
+.projets{
+    justify-content: space-evenly;
+    margin-top: 100px;
 }
+.pro-text{
+    padding-left: 110px;
+    padding-right: 70px;
+}
+.images{
+    display: flex;
+    margin-left: 80px;
+}
+.img{
+    width: 150px;
+    margin: 3px;
+    padding-left: 20px;
+    transition: width 2s;
+}
+.button2{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.img:hover{
+    width: 300px;
+    height: 400px;
+  }
