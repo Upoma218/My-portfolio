@@ -81,3 +81,24 @@ p{
    
 
 }
+.About-Me{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.about-image{
+    width: 350px;
+    margin-left: 110px;
+}
+.about-text{
+    padding-left: 110px;
+    padding-right: 70px;
+}
+h4{
+    color: #e95c25;
+    font-size: 36px;
+
+}
+.pro-text{
+    
+}
