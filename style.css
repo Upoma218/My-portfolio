@@ -1,0 +1,83 @@
+.menu-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    margin-top: 0px auto;
+    padding: 5px;
+
+}
+.person-logo{
+    display: flex;
+   align-items: baseline; 
+   margin-left: 20px;
+
+}
+.logo{
+    width: 15px;
+    height: 15px;
+    padding-right: 5px;
+}
+.name{
+    color: #f8236a;
+    
+}
+.menu-item {
+    display: flex;
+    margin-left: 700px;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+li{
+    margin-right: 15px; 
+    font-size: 15px;
+}
+li:hover{
+    color: #f8236a;
+    cursor: pointer;
+
+
+}
+.portfolio{
+    font-family: 'Roboto', sans-serif;
+   
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+}
+#headline{
+    font-size: 84px;
+    color: rgb(3, 136, 245);
+}
+.upoma{
+    color: #f8236a;
+}
+.image2{
+    width: 350px;
+    margin-right: 60px;
+    margin-top: 60px;
+
+}
+.welcome{
+    color: #e95c25;
+    font-size: 36px;
+}
+.focal-points{
+    padding-left: 110px;
+    padding-right: 70px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #f8236a;
+    padding: 5px 10px;
+    border-radius: 30px;
+    color: white;
+    font-size: 14px;
+    
+}
+p{
+    padding-bottom: 40px;
+   
+
+}
